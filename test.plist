@@ -13,7 +13,7 @@
 						<string>software-package</string>
 						<key>url</key>
 						<!-- http或者https链接的ipa文件地址 -->
-						<string>http://goodlo.co/wap/app/ios_test.ipa</string>
+						<string>http://goodlo.co/wap/app/test.ipa</string>
 					</dict>
 					<dict>
 						<key>kind</key>
